@@ -1,1 +1,1 @@
-Тренировочный проект для Git
+Training project of Git.

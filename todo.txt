@@ -1,1 +1,1 @@
-1. Пройти пару тем по Git.
+1. Go through several topics of Git.
